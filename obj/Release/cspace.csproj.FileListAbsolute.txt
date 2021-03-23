@@ -1,0 +1,10 @@
+C:\websites\dnndev.me\bin\cspace.dll.config
+C:\websites\dnndev.me\bin\cspace.dll
+C:\websites\dnndev.me\bin\cspace.pdb
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\cspace.csprojAssemblyReference.cache
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\CollectionSpace.Modules.cspace.App_LocalResources.Settings.resources
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\cspace.csproj.GenerateResource.cache
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\cspace.csproj.CoreCompileInputs.cache
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\cspace.csproj.CopyComplete
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\cspace.dll
+C:\websites\dnndev.me\DesktopModules\MVC\cspace\obj\Release\cspace.pdb
